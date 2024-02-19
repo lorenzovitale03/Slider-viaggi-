@@ -1,0 +1,38 @@
+body{
+  background-color: #222222;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+}
+
+.summerBox{
+  padding: 1.4em;
+  background-color: #222222;
+  border: 1px solid white;
+  margin: 5em;
+  color: white;
+}
+
+.summerBox img{
+  width: 40rem;
+}
+
+.holiday-cost{
+  display: flex;
+  justify-content: space-between;
+  background-color: #272724;
+}
+
+.btn-group{
+  display: flex;
+  justify-content: space-between;
+  background-color: #272724;
+}
+
+.btn-group button{
+  background-color: #0077B6;
+  border: none;
+  border-radius: 20px;
+  width: 6em;
+  height: 2em;
+}
